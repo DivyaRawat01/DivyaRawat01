@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, I'm Divya Rawat
+**A passionate Data Scientist || Software Engineer **
 
 
 ## 🌐 Socials:
