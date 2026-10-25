@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Divya Rawat
-#### A AI ML Engineer || Software Engineer 
 
 
 ## 🌐 Socials:
